@@ -16,4 +16,4 @@ I'm passionate about coding, open source, and building cool projects!<br>✨️ 
  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shauntitus_7)
 
 ---
-[![Visitor Count](https://visitcount.itsvg.in/api?id=Shaun-Titus&icon=9&color=1)](https://visitcount.itsvg.in)
+[![Visitor Count](https://visitcount.itsvg.in/api?id=Shaun-Titus&icon=9&color=1)](https://komarev.com/ghpvc/?username=your-github-username)
