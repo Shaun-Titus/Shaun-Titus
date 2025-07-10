@@ -13,8 +13,9 @@ I'm passionate about coding, open source, and building cool projects!
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ## 📈 GitHub Stats
-![Shaun Titus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shaun-Titus&show_icons=true&hide_title=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Shaun-Titus&theme=tokyonight-duo)](https://git.io/streak-stats)
+![Shaun-Titus's Stats](https://github-readme-stats.vercel.app/api?username=Shaun-Titus&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+![Shaun-Titus's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shaun-Titus&theme=tokyonight&hide_border=false)
+![Shaun-Titus's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaun-Titus&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 
 
