@@ -7,11 +7,10 @@
 I'm passionate about coding, open source, and building cool projects!
 
 ## 🛠 Tech Stack
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ## 📈 GitHub Stats
 ![Shaun Titus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shaun-Titus&show_icons=true&hide_title=true)
