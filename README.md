@@ -14,8 +14,7 @@ I'm passionate about coding, open source, and building cool projects!
 
 ## 📈 GitHub Stats
 ![Shaun Titus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shaun-Titus&show_icons=true&hide_title=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=Shaun-Titus)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Shaun-Titus&theme=tokyonight-duo)](https://git.io/streak-stats)
 
 
 
