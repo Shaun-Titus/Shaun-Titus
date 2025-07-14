@@ -1,15 +1,15 @@
 # 👋 Hey, I'm Shaun Titus
 
-💻 I'm a Computer Science student passionate about **coding**, **open source**, and building **cool, impactful projects**.<br>
-🚀 Currently diving deep into **Flutter** and mobile app development.<br>
-🎯 My goal? To build real-world apps, learn fast, and grow into a high-performing developer.
+I'm a Computer Science student passionate about **coding**, **open source**, and building **cool, impactful projects**.<br>
+#### Currently diving deep into **Flutter** and mobile app development.<br>
+#### My goal? To build real-world apps, learn fast, and grow into a high-performing developer.
 
 ---
 
-## 🚧 Current Focus
-- 🔨 Building cross-platform apps using **Flutter + Firebase**
-- 📘 Learning **Java**, **Data Structures**, and **Software Engineering** foundations
-- 🤝 Collaborating on open source & GitHub mini-projects
+##  Current Focus
+-  Building cross-platform apps using **Flutter + Firebase**
+-  Learning **Java**, **Data Structures**, and **Software Engineering** foundations
+-  Collaborating on open source & GitHub mini-projects
 
 ---
 
@@ -44,6 +44,10 @@
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Shaun-Titus&theme=blue_navy&hide_border=false" width="60%">
 </p>
+<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shaun-Titus&color=blue" alt="Visitor Count"/>
+</p>
 
 ---
 
@@ -54,6 +58,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shaun-Titus&color=blue" alt="Visitor Count"/>
-</p>
