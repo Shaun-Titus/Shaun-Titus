@@ -42,17 +42,19 @@ I'm a Computer Science student passionate about **coding**, **open source**, and
 
 ---
 
+
 ## 📊 GitHub Stats
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Shaun-Titus&theme=blue_navy&hide_border=false&count_private=true&show_icons=true" width="53%">
+<img src="https://github-readme-stats.vercel.app/api?username=Shaun-Titus&theme=blue_navy&hide_border=false&count_private=true&show_icons=true" width="53%">
 
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Shaun-Titus&theme=blue_navy&hide_border=false" width="60%">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaun-Titus&theme=blue_navy&hide_border=false&layout=compact" width="53%">
+<img src="https://nirzak-streak-stats.vercel.app/?user=Shaun-Titus&theme=blue_navy&hide_border=false" width="60%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaun-Titus&theme=blue_navy&hide_border=false&layout=compact" width="53%">
 
-<br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shaun-Titus&color=blue" alt="Visitor Count"/>
 </p>
+
+
 
 ---
 
