@@ -41,14 +41,19 @@ I'm a Computer Science student passionate about **coding**, **open source**, and
 </div>
 
 ---
-
-
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shaun-Titus&theme=blue_navy&hide_border=false&count_private=true&show_icons=true" width="53%">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shaun-Titus&theme=blue_navy&hide_border=false&count_private=true&show_icons=true" style="max-width: 100%; height: auto;" alt="Shaun's GitHub Stats">
+</p>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Shaun-Titus&theme=blue_navy&hide_border=false" width="60%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaun-Titus&theme=blue_navy&hide_border=false&layout=compact" width="53%">
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Shaun-Titus&theme=blue_navy&hide_border=false" style="max-width: 100%; height: auto;" alt="GitHub Streak Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaun-Titus&theme=blue_navy&hide_border=false&layout=compact" style="max-width: 100%; height: auto;" alt="Top Languages">
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shaun-Titus&color=blue" alt="Visitor Count"/>
