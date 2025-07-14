@@ -44,10 +44,10 @@ I'm a Computer Science student passionate about **coding**, **open source**, and
 
 ## 📊 GitHub Stats
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Shaun-Titus&theme=blue_navy&hide_border=false&count_private=true&show_icons=true" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaun-Titus&theme=blue_navy&hide_border=false&layout=compact" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shaun-Titus&theme=blue_navy&hide_border=false&count_private=true&show_icons=true" width="58%">
 
   <img src="https://nirzak-streak-stats.vercel.app/?user=Shaun-Titus&theme=blue_navy&hide_border=false" width="60%">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaun-Titus&theme=blue_navy&hide_border=false&layout=compact" width="58%">
 
 <br>
 <p align="center">
