@@ -1,4 +1,4 @@
-#👋 Hey, I'm Shaun Titus
+# 👋 Hey, I'm Shaun Titus
 
 I'm a Computer Science student passionate about **coding**, **open source**, and building **cool, impactful projects**.<br>
 #### Currently diving deep into **Flutter** and mobile app development.<br>
