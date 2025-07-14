@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Shaun Titus
+#👋 Hey, I'm Shaun Titus
 
 I'm a Computer Science student passionate about **coding**, **open source**, and building **cool, impactful projects**.<br>
 #### Currently diving deep into **Flutter** and mobile app development.<br>
@@ -6,14 +6,14 @@ I'm a Computer Science student passionate about **coding**, **open source**, and
 
 ---
 
-##  Current Focus
+## Current Focus
 -  Building cross-platform apps using **Flutter + Firebase**
 -  Learning **Java**, **Data Structures**, and **Software Engineering** foundations
 -  Collaborating on open source & GitHub mini-projects
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 <div align="center">
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
