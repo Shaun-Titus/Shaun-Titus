@@ -1,4 +1,10 @@
-# 👋 Hey, I'm Shaun Titus
+<div align="center">
+  <img src="https://svg-banners.vercel.app/api?type=luminance&text1=Hey+I'm+Shaun&width=800&height=200" alt="Luminance gradient banner">
+</div>
+
+### 👋 Hey, I'm Shaun Titus 
+
+
 
 I'm a Computer Science student passionate about **coding**, **open source**, and building **cool, impactful projects**.<br>
 #### Currently diving deep into **Flutter** and mobile app development.<br>
