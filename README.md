@@ -3,7 +3,7 @@
 </div>
 
 ### 👋 Hey, I'm Shaun Titus 
-## Check Out My [Portfolio]([https://glorious-employees-107121.framer.app/](https://shaun777.framer.website/))
+## Check Out My [Portfolio](https://shaun777.framer.website/)
 
 
 
