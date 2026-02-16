@@ -3,7 +3,7 @@
 </div>
 
 ### 👋 Hey, I'm Shaun Titus 
-## Check Out My [Portfolio]([https://shaun777.framer.website/](https://shaun-titus.github.io/Portfolio/))
+## Check Out My [Portfolio](https://shaun-titus.github.io/Portfolio/)
 
 
 
